@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+}
+
+body {
+  background-color: lightgray;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  max-width: 360px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: white;
+  padding: 18px;
+  border-radius: 4%;
+  text-align: center;
+  margin: 1em;
+}
+
+#qr_code {
+  width: 100%;
+  border-radius: 4%;
+}
+
+#message {
+  max-width: 300px;
+  padding: 22px;
+}
+
+#message h2 {
+  color: hsl(218, 44%, 22%);
+}
+
+#message p {
+  color: hsl(220, 15%, 55%)
+}

@@ -52,7 +52,7 @@ I am looking forward to using more skills in future challenges.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/robinphurtado)
+- Frontend Mentor - [@robinphurtado](https://www.frontendmentor.io/profile/robinphurtado)
 
 So far I am using Frontend mentor to help me build toward projects to put on a portfolio website, but it is not up and running yet. 
 

@@ -27,8 +27,8 @@ As my first challenge on Frontend Mentor I completed this QR code component.  I 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://replit.com/join/khhigjpojy-robinphurtado)
-- Live Site URL: [Add live site URL here](https://frontendmentoqrchallenge.robinphurtado.repl.co/)
+- Solution URL: [Solution](https://replit.com/join/khhigjpojy-robinphurtado)
+- Live Site URL: [Live](https://frontendmentoqrchallenge.robinphurtado.repl.co/)
 
 ## My process
 
@@ -47,8 +47,6 @@ This was a nice first practice to get me going.
 ### Continued development
 
 I am looking forward to using more skills in future challenges.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
